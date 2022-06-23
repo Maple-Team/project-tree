@@ -1,4 +1,4 @@
-import normal from './normal';
-import perfect from './perfect';
+import normal from './normal'
+import perfect from './perfect'
 
-export default { normal, perfect };
+export default { normal, perfect }
